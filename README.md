@@ -20,7 +20,7 @@ $ cd Eternal-Hub
 $ pip3 install -r requirements.txt
 
 # Execute o selfbot
-$ python eternal
+$ python eternal.py
 ```
 
 ### Redes sociais
