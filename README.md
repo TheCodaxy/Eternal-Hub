@@ -1,6 +1,6 @@
 <p align="center" ><img alt="Eternal-Hub" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
-## Eternal Hub
+## ETERNAL HUB
 
 ### Pré-requisitos
 
