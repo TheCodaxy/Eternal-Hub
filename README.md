@@ -19,7 +19,7 @@ $ cd Eternal-Hub
 # Instale as dependências
 $ pip3 install -r requirements.txt
 
-# Execute o selfbot
+# Execute o arquivo
 $ python eternal.py
 ```
 
