@@ -135,7 +135,7 @@ if hint == 6:
 
 if hint == 7:
      texto = input(Branco + '''
-╭ Insira o base64:
+╭ Insira o texto:
 │ 
 ╰► ''').encode()
      hash = hashlib.md5(texto)
